@@ -77,9 +77,9 @@ and Default Rate over time , Overall distribution with Tree visual
 ---
 
 This Dashboard helps in :-
-- Understing the Customer characteristics of Defaulers
+- Understanding the Default Customer's characteristics 
 - Proper Risk Manangement
-- indentifying customers who could be fraud in future
+- indentifying customers who could be/do fraud in future
 
 
 ***
