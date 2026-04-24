@@ -28,12 +28,12 @@ and Default Rate over time , Overall distribution with Tree visual
 - (20-30) and (31-40) **Age group** were the most contributer with the values (8.24%) and (7.30%) combined (15.54%) Applies for both Male and Female
 - Customers with **Low Credit Limit ** Defaulted the most with the value (17.40%) which which is (78%) of total Defaul Rate (22.12%)
 - As the month increses No of Payment delays increase on an Average by (1k+)
-- Customers with utilization % 1.5 times Definatly Defaults
+- Customers with utilization % 1.5 times Definately Defaults
 - Customer with university and Graduate Educational Background defaults most with (11.10%) and (6.79%) combined (17.89%)
-- Total Customrs Customr (30K)
-- Average Utilization % /cust is (223.83%)
+- Total Customers  (30K)
+- Average Utilization % /cust is (223.83%) -Risky
 - (₹7.15bn)  Amount is at Risk
--  Amount Recoverd (₹949.54M)
+- Amount Recoverd (₹949.54M)
 - Revenue Generated (454.23 M) :- KPI insights
 
 ***
