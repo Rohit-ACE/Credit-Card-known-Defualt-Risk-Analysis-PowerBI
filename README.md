@@ -68,6 +68,7 @@ and Default Rate over time , Overall distribution with Tree visual
 - Credit_card_Transection.CSV - Actual Dataset
 - Dashboard_Preview.Png - Screenshot of Dashboard
 - Data_Model_Preview - Screenshot of relationship model
+- power Query Transformation steps - Text file
 
 
 ***
